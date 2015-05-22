@@ -1,0 +1,9 @@
+#top_menu{
+	background:#1E1E1E;
+	background-image: 
+	linear-gradient( 
+      #DDC759, #BAA126,#DDC759
+    );
+	/*background: #870505;*/
+	color: white; /*color of the stuff inside*/
+}
